@@ -1,0 +1,5 @@
+# ADA-Informes
+Repositorio de informes de ICD2347-1 2° semestre 2022
+
+## Corrección de actividades:
+- Se corrigió el foro de la semana 3: agregado tema de foro.
